@@ -1,0 +1,26 @@
+body{font-family: Arial, Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    background-color: #C0C0C0;
+    padding: 20px;}
+
+h1{background-color: #FFFFFF;
+    padding: inherit;}
+
+div.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10,.p11,.p12,.p13,.p14,.p15{
+    padding: 1px;
+    font-family: inherit;}
+
+.p1{background-color:#034e61 ;}
+.p2{background-color:#0a5d72 ;}
+.p3{background-color: #0c728b;}
+.p4{background-color: #0b7f9c;}
+.p5{background-color: #1086a3;}
+.p6{background-color: #0c93b4;}
+.p7{background-color: #0eadd4;}
+.p8{background-color: #30b6d8;}
+.p9{background-color: #66c2da;}
+.p10{background-color:#08a838;}
+.p11{background-color: #e49ccc;}
+.p12{background-color: #eb81c7;}
+.p13{background-color: #eb62bd;}
+.p14{background-color: #e04fb0;}
+.p15{background-color: #b81b83;}
