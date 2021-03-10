@@ -1,0 +1,12 @@
+*{
+    background-color: aliceblue;
+}
+.p1,.p2,.p3{
+    color: red;
+    background-color: pink;
+    border:20px double red;
+    border-radius: 10px;
+    border-image: url('Images/depositphotos_3432797-stock-illustration-hearts-background-seamless.png') 20 20 20 20 stretch;
+    
+
+}
